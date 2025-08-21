@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Webapi.Models
+namespace Webapi.Models.ViewModels
 {
-    public class pruebasss
+    public class Cambiosultimos
     {
         
     }
