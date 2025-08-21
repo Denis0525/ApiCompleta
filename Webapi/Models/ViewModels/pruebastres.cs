@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace Webapi.Models.ViewModels
 {
-    public class pruebasdecambios
+    public class pruebastres
     {
         
     }
